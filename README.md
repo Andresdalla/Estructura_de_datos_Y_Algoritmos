@@ -25,8 +25,6 @@ En este pdf esta todo el teórico del curso: [Teórico EDA 2 .pdf](https://githu
     - Dijkstra
   - Algoritmos de Árbol de Expansión Mínima
     - Kruskal
-
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor haz un fork del repositorio, crea una rama con tu característica o corrección de errores, realiza tus cambios y envía un pull request. Asegúrate de que tu código siga las convenciones de estilo y de incluir pruebas donde sea apropiado
+y mas
 
 
